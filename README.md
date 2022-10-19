@@ -1,2 +1,2 @@
-# GTTG---Nagy-project
+# GTTG-Nagy-project
 AFP Nagy project
